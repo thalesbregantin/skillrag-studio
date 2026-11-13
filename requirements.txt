@@ -1,0 +1,16 @@
+flask>=3.0.0
+playwright>=1.41.0
+requests>=2.31.0
+beautifulsoup4>=4.12.3
+urllib3>=2.1.0
+gunicorn>=21.2.0
+psutil>=5.9.8
+pydantic>=2.10.0
+markdownify>=0.14.1
+langchain>=0.3.20
+langchain-core>=0.3.40
+langgraph>=0.3.5
+langsmith>=0.3.0
+langchain-openai>=0.3.7
+langchain-google-genai>=2.0.11
+langchain-anthropic>=0.3.8
